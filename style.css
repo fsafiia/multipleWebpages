@@ -37,6 +37,7 @@ h1{
     margin-bottom: 20px;
     font-size: 20px;
     text-align: center;
+    margin-top: 100px;
 }
 
 #one{
@@ -53,21 +54,11 @@ h1{
 }
 
 #picOne, #picTwo, #picThree, #picFour{
-    height: 230px;
+    height: 200px;
     width: 230px;
     padding-right: 50px;
-   padding-left: 50px;
-    padding-top: 20px;
+    padding-left: 50px;
+    padding-top: 100px;
 
 }
 
-#buttonOne{
-    background-color: lightcoral;
-    font-size: 15px;
-    margin-top: 200px;
-
-}
-
-#buttonTwo{
-    background-color: lightcoral;
-    font-size: 15px;
