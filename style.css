@@ -57,7 +57,7 @@ h1{
     width: 230px;
     padding-right: 50px;
    padding-left: 50px;
-    padding-top: 200px;
+    padding-top: 20px;
 
 }
 
@@ -65,10 +65,9 @@ h1{
     background-color: lightcoral;
     font-size: 15px;
     margin-top: 200px;
+
 }
 
 #buttonTwo{
     background-color: lightcoral;
     font-size: 15px;
-    margin-top: 200px;
-}
