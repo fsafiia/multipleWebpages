@@ -40,18 +40,11 @@ h1{
     margin-top: 100px;
 }
 
-#one{
+#one, #2, #3{
     color: purple;
     margin-bottom: 20px;
 }
-#two{
-    color: green;
-    margin-bottom: 20px;
-}
-#three{
-    color: purple;
-    margin-bottom: 20px;
-}
+
 
 #picOne, #picTwo, #picThree, #picFour{
     height: 200px;
