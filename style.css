@@ -1,0 +1,62 @@
+
+
+nav{
+    height: 80px;
+    width: 100%;
+    background-color: lightblue;
+    border-bottom-color: black;
+    border-bottom-width: 2px;
+    border-bottom-style: solid;
+    box-shadow: 8px;
+    position: fixed;
+    top: 0;
+    left: 0;
+
+}
+a {
+    text-decoration: none;
+    color: rebeccapurple;
+    font-size: 25px;
+    margin: 200px;
+}
+
+
+#content{
+    margin-top: 100px;
+}
+
+h1{
+    text-align: center;
+    line-height: 630px;
+    color: maroon;
+    font: bold;
+    font-size: 80px;
+}
+
+#about {
+    margin-bottom: 20px;
+    font-size: 30px;
+    text-align: center;
+}
+
+#one{
+    color: purple;
+    margin-bottom: 20px;
+}
+#two{
+    color: green;
+    margin-bottom: 20px;
+}
+#three{
+    color: purple;
+    margin-bottom: 20px;
+}
+
+#picOne, #picTwo, #picThree, #picFour{
+    height: 230px;
+    width: 230px;
+    padding-right: 50px;
+   padding-left: 50px;
+    padding-top: 200px;
+
+}
